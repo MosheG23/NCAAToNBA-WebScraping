@@ -2,6 +2,8 @@
 
 ## Main Objective
   Trying to perdict the career of the next NBA draft - 2019, using web scraping
+  
+### Recommened to check the Presention.pptx for project breakdown
 
 ## Step 1 & 2- Scraping + Scrub
 
